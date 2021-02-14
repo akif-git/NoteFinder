@@ -1,0 +1,18 @@
+.App {
+  margin-top: 0px;
+}
+
+.App .navbar-brand {
+  font-weight: bold;
+}
+
+.App .container{
+  align-content: center
+}
+
+img{
+  width:100%;
+  max-width:300px;
+}
+
+@import "~react-image-gallery/styles/css/image-gallery.css";
